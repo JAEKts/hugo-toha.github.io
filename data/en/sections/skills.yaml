@@ -11,39 +11,27 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Web Application Pentesting
+  logo: /images/sections/skills/web-application-svgrepo-com.svg
+  summary: "Familiar with different Web App vulnerabilities and delivering consistent and concise results."
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: AWS & Amazon Pentesting
+  logo: /images/sections/skills/aws-svgrepo-com.svg
+  summary: "Familiar with different AWS services such as IAM and probing them for vulnerabilities."
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Burp Suite
+  logo: /images/sections/skills/burp.png
+  summary: "Experienced with the proxy tool that is Burp Suite. Used in over 100+ engagements."
+  url: "https://portswigger.net/burp"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Secure Code Review
+  logo: /images/sections/skills/c++.png
+  summary: "Capable of analyzing source code for potential vulnerabilities."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Used extensively in professional and recreational environments. Capable of writing basic shell scripts."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Windows and Active Directory
+  logo: /images/sections/skills/windows-applications-svgrepo-com.svg
+  summary: "Experienced with Windows and AD environments. Learned from studying for and taking the OSCP."

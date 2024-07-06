@@ -1,14 +1,14 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Rest VS GraphQL"
+date: 2024-07-06T00:00:00+06:00
+description: Research on the differences between GraphQL and Rest API.
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Rest VS GraphQL
+    identifier: rest-vs-graphql
     weight: 10
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+tags: ["Research", "Markdown"]
+categories: ["Research"]
 ---
 
 Greeting! This is an introduction post. This post tests the followings:
