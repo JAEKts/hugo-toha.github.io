@@ -20,27 +20,23 @@ experiences:
     # company overview
     overview: NetSPI secures nine of the top 10 U.S. banks, four of the top five leading cloud providers, three of the five largest healthcare companies, four MAMAA companies, seven of the top 10 U.S. retailers & e-commerce companies, and many of the Fortune 500.
   positions:
-  - designation: Security Consultant
-    start: July 2023
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
+  - designation: Security Consultant II
+    start: August 2024
+        responsibilities:
     - Execute penetration tests, using manual and automated methodology.
     - Prepare detailed reports documenting the findings.
     - Interface directly with clients to discuss assessment objectives, present findings, and collaborate on remediation efforts.
 
-  - designation: Associate Security Consultant
+  - designation: Security Consultant
     start: Jan 2023
-    end: June 2023
-    responsibilities:
-    - Learn about different web-based vulnerabilities and how to exploit them.
-    - Prepare reports based on findings of vulnerable applications.
-    - Deliver consistently on short deadlines.
+    end: July 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
 
 - company:
     name: Geek Squad - Best Buy
-    url: "https://www.example.com"
+    url: "https://stores.bestbuy.com/mn/mankato/1895-adams-st-330/geeksquad.html"
     location: Mankato
     logo: /images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme

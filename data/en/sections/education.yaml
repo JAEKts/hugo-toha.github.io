@@ -15,7 +15,7 @@ degrees:
   timeframe: 2019-2022
   institution:
     name: Minnesota State University - Mankato
-    url: "#"
+    url: "https://www.mnsu.edu/"
     logo: /images/sections/education/logo-uni.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg

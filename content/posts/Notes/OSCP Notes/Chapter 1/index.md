@@ -8,7 +8,7 @@ menu:
     identifier: chapter-1
     parent: oscp-notes
     weight: 10
-hero: images/forest.jpg
+hero: 
 tags:
 - Markdown
 - Notes
