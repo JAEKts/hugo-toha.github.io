@@ -39,8 +39,8 @@ degrees:
       outOf: 4
   extracurricularActivities: #(optional)
   - Elected to build final exam for my “Information Warfare” class that involved creating vulnerable systems for other students to exploit.
-  - Selected as a finalist for the UMSA Scholarship Program.
-  - Built robust home network setup to implement different network security controls such as a pfSense firewall.
+  - Selected as a finalist for the UMSA Scholarship Program and awarded a grant.
+  - Built robust home network to learn how to implement different network security controls such as a pfSense firewall.
   custonSections: #(optional)
     - name: Thesis
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.

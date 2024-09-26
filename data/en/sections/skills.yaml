@@ -13,25 +13,25 @@ section:
 skills:
 - name: Web Application Pentesting
   logo: /images/sections/skills/web-application-svgrepo-com.svg
-  summary: "Familiar with different Web App vulnerabilities and delivering consistent and concise results."
+  summary: "Expert in OWASP Top 10 vulnerabilities, previous experience performing vulnerability assessments on web applications."
 
-- name: AWS & Amazon Pentesting
+- name: AWS Penetration Testing
   logo: /images/sections/skills/aws-svgrepo-com.svg
-  summary: "Familiar with different AWS services such as IAM and probing them for vulnerabilities."
+  summary: "Conducted daily penetration tests on many different AWS Microservices as an official vendor for AWS/Amazon Corporation."
 
 - name: Burp Suite
   logo: /images/sections/skills/burp.png
-  summary: "Experienced with the proxy tool that is Burp Suite. Used in over 100+ engagements."
+  summary: "Over 5000+ hours of experience with the Web App Pentesting tool, Burp Suite."
   url: "https://portswigger.net/burp"
 
 - name: Secure Code Review
   logo: /images/sections/skills/c++.png
-  summary: "Capable of analyzing source code for potential vulnerabilities."
+  summary: "Regularly executed extensive Code Reviews for new service offerings from AWS/Amazon Corporation."
 
-- name: Linux
+- name: Unix
   logo: /images/sections/skills/linux.png
-  summary: "Used extensively in professional and recreational environments. Capable of writing basic shell scripts."
+  summary: "Daily driver operating system, utilized in both a professional and hobbyist capacity."
 
-- name: Windows and Active Directory
+- name: Windows & Active Directory
   logo: /images/sections/skills/windows-applications-svgrepo-com.svg
-  summary: "Experienced with Windows and AD environments. Learned from studying for and taking the OSCP."
+  summary: "Completed OSCP training and labs, familiar with Network Penetration principles."
