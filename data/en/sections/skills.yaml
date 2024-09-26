@@ -17,7 +17,7 @@ skills:
 
 - name: AWS Penetration Testing
   logo: /images/sections/skills/aws-svgrepo-com.svg
-  summary: "Conducted daily penetration tests on many different AWS Microservices as an official vendor for AWS/Amazon Corporation."
+  summary: "Conducted daily penetration tests on many different AWS Microservices as an official vendor for AWS & Amazon Corporation."
 
 - name: Burp Suite
   logo: /images/sections/skills/burp.png
@@ -26,7 +26,7 @@ skills:
 
 - name: Secure Code Review
   logo: /images/sections/skills/c++.png
-  summary: "Regularly executed extensive Code Reviews for new service offerings from AWS/Amazon Corporation."
+  summary: "Regularly executed extensive Code Reviews for new service offerings from AWS & Amazon Corporation."
 
 - name: Unix
   logo: /images/sections/skills/linux.png
