@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Security Consultant
+designation: Security Consultant II
 # your company information
 company:
   name: NetSPI
@@ -20,7 +20,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Talented Cyber Security Professional with professional experience performing vulnerability assessments for industry leading companies such as AWS, Amazon, NFL, and many more. Expert in penetration testing web applications with over 5000+ hours actively conducting assessments.'
+summary: 'Talented Cyber Security Professional with extensive experience in performing vulnerability assessments for industry leaders such as AWS, Amazon, NFL, and many more. Expert in penetration testing web applications with over 5000+ hours actively conducting assessments.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
